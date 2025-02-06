@@ -9,10 +9,12 @@ Each folder in this repository contains the base code provided by the organizati
 | Mean-Variance-Standard Deviation Calculator | ✔️ |
 | Demographic Data Analyzer | ✔️ |
 | Medical Data Visualizer | ✔️ | 
-| Page View Time Series Visualizer | ⌛ |
+| Page View Time Series Visualizer | ✔️ |
 | Sea Level Predictor | ⌛ |
 
 
 ## 📃 References
 
 - [Data Analysis with Python - freeCodeCamp](https://www.freecodecamp.org/learn/data-analysis-with-python)
+
+- Dua, D. and Graff, C. (2019). UCI Machine Learning Repository. Irvine, CA: University of California, School of Information and Computer Science.
