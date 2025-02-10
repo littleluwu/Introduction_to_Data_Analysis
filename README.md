@@ -10,7 +10,7 @@ Each folder in this repository contains the base code provided by the organizati
 | Demographic Data Analyzer | ✔️ |
 | Medical Data Visualizer | ✔️ | 
 | Page View Time Series Visualizer | ✔️ |
-| Sea Level Predictor | ⌛ |
+| Sea Level Predictor | ✔️ |
 
 
 ## 📃 References
@@ -18,3 +18,5 @@ Each folder in this repository contains the base code provided by the organizati
 - [Data Analysis with Python - freeCodeCamp](https://www.freecodecamp.org/learn/data-analysis-with-python)
 
 - Dua, D. and Graff, C. (2019). UCI Machine Learning Repository. Irvine, CA: University of California, School of Information and Computer Science.
+
+- Global Average Absolute Sea Level Change, 1880-2014 from the US Environmental Protection Agency using data from CSIRO, 2015; NOAA, 2015.
